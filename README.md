@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating through arrays.  The error arises from incorrectly using the '<= ' operator in the loop condition, attempting to access an index beyond the array's bounds.  The solution shows the correct way to iterate.
